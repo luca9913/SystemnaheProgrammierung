@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/de.innot.avreclipse.configuration.app.debug.1762565068/AVRDUDEOPTIONS/delimiter=\:
+environment/project/de.innot.avreclipse.configuration.app.debug.1762565068/AVRDUDEOPTIONS/operation=replace
+environment/project/de.innot.avreclipse.configuration.app.debug.1762565068/AVRDUDEOPTIONS/value=-carduino -P/dev/ttyUSB0 -b9600
+environment/project/de.innot.avreclipse.configuration.app.debug.1762565068/append=true
+environment/project/de.innot.avreclipse.configuration.app.debug.1762565068/appendContributed=true
